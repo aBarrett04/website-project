@@ -1,0 +1,66 @@
+header{
+    width: 100%;
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    background-image: url(../Images/DSC00108.JPG);
+    background-color: aqua;
+    background-position: center;
+    background-size: 100%;
+}
+
+footer{
+    margin:0;
+    position:fixed;
+    bottom:0px;
+    width:100%;
+    background-color: grey;
+}
+h3{
+    color: black;
+    text-indent: 5px;
+}
+p{
+    color: white;
+}
+main{
+    display:flex
+
+}
+.left{
+    flex-basis: 80%;
+}
+.right{
+    flex-basis: 20%;
+}
+body{
+    background-image: url(../Images/DSC00680.JPG);
+    background-size: 100%;
+}
+nav{
+    background-color: black;
+}
+nav ul {
+    text-align: center;
+    font-size: 1.2em;
+}
+nav ul li:hover{
+    background-color: orangered;
+}
+nav ul li {
+    margin:5px;
+    border: 15px;
+    border-color:blue;
+    padding: 15px;
+    list-style-type: none;
+    background-color: grey;
+    display: inline;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+}
