@@ -16,6 +16,10 @@ footer{
     width:100%;
     background-color: grey;
 }
+h1{
+    color: white;
+    text-align: center;
+}
 h3{
     color: white;
     text-indent: 5px;
@@ -23,6 +27,7 @@ h3{
 h2{
     color: white;
     text-indent: 5px;
+    text-align: center;
 }
 p{
     color: white;
