@@ -19,15 +19,21 @@ footer{
 h1{
     color: white;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
 }
 h3{
     color: white;
     text-indent: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
 }
 h2{
     color: white;
     text-indent: 5px;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
 }
 p{
     color: white;
